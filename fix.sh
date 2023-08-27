@@ -35,8 +35,7 @@ sudo ifconfig wlan0 up
 iwconfig                             
 sudo aireplay-ng --test wlan0
 
-
-Also Check this command for qiuck fix
+if this will not working then try this command for fix this issue
 
 // Command //
 sudo apt install -y realtek-rtl8188eus-dkms
