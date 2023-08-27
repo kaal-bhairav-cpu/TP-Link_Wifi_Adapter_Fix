@@ -1,0 +1,1 @@
+# TP-Link_Wifi_Adapter_Fix
